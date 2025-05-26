@@ -1,0 +1,7 @@
+C:/Users/ray_juan/.st_workbench/projects/test0515-2/Src/mc_tasks_foc.c:511:13:FOC_Clear	2
+C:/Users/ray_juan/.st_workbench/projects/test0515-2/Src/mc_tasks_foc.c:82:13:FOC_Init	1
+C:/Users/ray_juan/.st_workbench/projects/test0515-2/Src/mc_tasks_foc.c:160:6:TSK_MF_StopProcessing	1
+C:/Users/ray_juan/.st_workbench/projects/test0515-2/Src/mc_tasks_foc.c:557:13:FOC_InitAdditionalMethods	1
+C:/Users/ray_juan/.st_workbench/projects/test0515-2/Src/mc_tasks_foc.c:580:13:FOC_CalcCurrRef	3
+C:/Users/ray_juan/.st_workbench/projects/test0515-2/Src/mc_tasks_foc.c:178:13:TSK_MediumFrequencyTaskM1	33
+C:/Users/ray_juan/.st_workbench/projects/test0515-2/Src/mc_tasks_foc.c:639:16:FOC_HighFrequencyTask	8
